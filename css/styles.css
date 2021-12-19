@@ -1,0 +1,16 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.header-area .header-top {
+    padding: 17px 0;
+}
+
+.header-area .header-top {
+    background: var(--white);
+    padding: 8px 0;
+    border-bottom: 1px solid #edeff2;
+}
