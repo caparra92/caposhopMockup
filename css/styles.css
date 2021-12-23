@@ -241,6 +241,9 @@ body {
 }
 
 #search_input_box .ti-close {
+    position: absolute;
+    right: 1.5em;
+    top: 1em;
     color: #fff;
     font-weight: 600;
     cursor: pointer;
