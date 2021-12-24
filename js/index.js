@@ -34,6 +34,6 @@ function fadeOutEffect(fadeTarget) {
         } else {
             clearInterval(fadeEffect);
         }
-    }, 200);
+    }, 500);
 }
 
